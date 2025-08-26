@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pyt
+*.env
+*.venv
+env/
+venv/
+ENV/
+.venv/
+
+# Streamlit
+.streamlit/
+
+# IDEs / editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+*.sqlite3
+
+# LLM / CrewAI cache (optional, if any)
+.cache/
+*.db
